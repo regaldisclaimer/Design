@@ -1,0 +1,20 @@
+html, body {
+	height:100%;
+	font-family: 'Roboto', sans-serif;
+	background-color: #f1f1f1;
+	font-weight: 300;
+	font-size: 32pt;
+	text-align: center;
+	color: #3B2D38;
+	overflow: hidden;
+}
+
+div {
+	margin-top: 40vh;
+}
+
+
+a{
+	text-decoration: none;
+	color: #000;
+}
